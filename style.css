@@ -1,0 +1,40 @@
+body
+{
+background-color: powderblue;
+}
+hr
+{
+width: 50%;
+border-style:none;
+border-top-style: dotted;
+border-color: white;
+border-top-width: 5px;
+}
+h1
+{
+  color: #3A5BA0;
+}
+h2
+{
+  color: #3AB0FF;
+}
+img:hover
+{
+  background-color: blue;
+}
+h1:hover
+{
+  background-color: green;
+}
+h2:hover
+{
+  background-color: yellow;
+}
+h2:hover
+{
+  background-color: black;
+}
+h3:hover
+{
+  background-color: red;
+}
